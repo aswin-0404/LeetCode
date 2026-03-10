@@ -31,6 +31,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/aswin-0404/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [3516-find-closest-person](https://github.com/aswin-0404/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/aswin-0404/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/aswin-0404/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/aswin-0404/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/aswin-0404/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
