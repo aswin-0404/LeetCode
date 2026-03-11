@@ -15,10 +15,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/aswin-0404/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aswin-0404/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aswin-0404/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aswin-0404/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aswin-0404/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/aswin-0404/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
