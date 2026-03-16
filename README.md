@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aswin-0404/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/aswin-0404/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [3340-check-balanced-string](https://github.com/aswin-0404/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aswin-0404/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
