@@ -2,9 +2,9 @@ class Solution(object):
     def sortSentence(self, s):
         arr=s.split()
         out=sorted(arr,key=lambda x: int(x[-1]))
-        new="".join(out)
+        s="".join(out)
         
-        for ind,i in enumerate(new):
+        for i in s:
             if not i.isalpha():
-                new=new.replace(i," ")
-        return new.strip()
+                s=s.replace(i," ")
+        return s.strip()
