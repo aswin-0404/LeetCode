@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aswin-0404/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aswin-0404/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/aswin-0404/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aswin-0404/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->
