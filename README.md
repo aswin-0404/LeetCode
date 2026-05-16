@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/aswin-0404/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aswin-0404/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
@@ -94,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aswin-0404/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/aswin-0404/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
