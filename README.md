@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/aswin-0404/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/aswin-0404/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aswin-0404/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aswin-0404/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/aswin-0404/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/aswin-0404/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aswin-0404/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3516-find-closest-person](https://github.com/aswin-0404/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aswin-0404/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/aswin-0404/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
