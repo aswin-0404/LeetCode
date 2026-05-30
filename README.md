@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aswin-0404/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1816-truncate-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aswin-0404/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aswin-0404/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aswin-0404/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/aswin-0404/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/aswin-0404/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/aswin-0404/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aswin-0404/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aswin-0404/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/aswin-0404/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3146-permutation-difference-between-two-strings](https://github.com/aswin-0404/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aswin-0404/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/aswin-0404/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aswin-0404/LeetCode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aswin-0404/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aswin-0404/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Math
 | Problem Name | Difficulty |
