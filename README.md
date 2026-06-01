@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aswin-0404/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aswin-0404/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aswin-0404/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/aswin-0404/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/aswin-0404/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aswin-0404/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/aswin-0404/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aswin-0404/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
