@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/aswin-0404/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3340-check-balanced-string](https://github.com/aswin-0404/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aswin-0404/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3894-traffic-signal-color](https://github.com/aswin-0404/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3516-find-closest-person](https://github.com/aswin-0404/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aswin-0404/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/aswin-0404/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3894-traffic-signal-color](https://github.com/aswin-0404/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/aswin-0404/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [3894-traffic-signal-color](https://github.com/aswin-0404/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
