@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/aswin-0404/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/aswin-0404/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2119-a-number-after-a-double-reversal](https://github.com/aswin-0404/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aswin-0404/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3516-find-closest-person](https://github.com/aswin-0404/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aswin-0404/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
