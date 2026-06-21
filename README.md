@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/aswin-0404/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/aswin-0404/LeetCode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aswin-0404/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/aswin-0404/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/aswin-0404/LeetCode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
