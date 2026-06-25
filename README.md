@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/aswin-0404/LeetCode/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 | [3340-check-balanced-string](https://github.com/aswin-0404/LeetCode/tree/main/3340-check-balanced-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/aswin-0404/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/aswin-0404/LeetCode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3894-traffic-signal-color](https://github.com/aswin-0404/LeetCode/tree/main/3894-traffic-signal-color/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/aswin-0404/LeetCode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Bit Manipulation
