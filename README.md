@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aswin-0404/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aswin-0404/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/aswin-0404/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aswin-0404/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/aswin-0404/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
