@@ -1,5 +1,5 @@
-class Solution(object):
-    def countDigitOccurrences(self, nums, digit):
+class Solution:
+    def countDigitOccurrences(self, nums: list[int], digit: int) -> int:
         count=0
 
         for i in nums:
