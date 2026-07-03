@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aswin-0404/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aswin-0404/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/aswin-0404/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aswin-0404/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aswin-0404/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/aswin-0404/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aswin-0404/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aswin-0404/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/aswin-0404/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aswin-0404/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aswin-0404/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -147,4 +150,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/aswin-0404/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aswin-0404/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
