@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/aswin-0404/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/aswin-0404/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/aswin-0404/LeetCode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aswin-0404/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/aswin-0404/LeetCode/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2315-count-asterisks](https://github.com/aswin-0404/LeetCode/tree/main/2315-count-asterisks/) | Easy |
